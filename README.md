@@ -1,0 +1,1 @@
+Fake news classifier using python passiveaggressive classifier from sklearn
