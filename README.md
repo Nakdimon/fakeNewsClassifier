@@ -1,1 +1,5 @@
-Fake news classifier using python passiveaggressive classifier from sklearn
+# Fake news classifier using:
+
+## Passive aggressive classifier
+
+## LSTM Neural Network
